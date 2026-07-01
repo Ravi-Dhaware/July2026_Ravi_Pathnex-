@@ -1,2 +1,17 @@
-hello this is ravi i am testing this repo
-hghvdgfuybg usb bs hyugyuu   ugcyu
+# #What I did today
+1)2 hours attended the morning class which is on Devops Roadmaps.
+2)1 hourAfter some time watched video in 2k speed and commented on youtube video.
+3)1 hours prepaired for document on devops roadmap for evening class/session.
+4)2 hours watched previous batch video.
+5)1 hour watched on video on VM and networking.
+6)attended evening session at 7.30pm to 8:15pm and given introduction of myself and also talked about morning session topic.
+7)finally pushed the code of coding pratice and daily activity of full day over the repository.
+
+
+# #Tomorrow's Task
+1)i will attend morning class at 6 am.
+2)i will after attend the class and  watch video again and comment on the video.
+3)crete account on AWS and setup the EC2 instance on it.
+4)i will watch video of intigrate the EC2+github+git together.
+5)i will create file of daily activity and coding pratice and push code for day3 over the git hub repository..
+6)watch previous batch video on linux topic.
